@@ -19,5 +19,6 @@ function pauseVid() {
 }
 
 function video() {
+pauseVid();
 	setTimeout(playVid, 5000);
 }
