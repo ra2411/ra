@@ -10,7 +10,6 @@ function pauseVid() {
 
 function display() {
 	if(vid.style.display === "block") {
-pauseVid();
 		vid.style.display = "none";
 	}
 	else {
