@@ -4,12 +4,12 @@ body {
 
 h1 {
 align: center;
-color: yellow;
+color: rgb(255,255,0);
 font: bold;
 }
 
 p {
-	color: yellow;
+	color: rgb(255,255,0);
 }
 
 #video {
